@@ -34102,5 +34102,19 @@
         "countryCode": "IR",
         "latitude": "34.91936070",
         "longitude": "47.48329250"
+    },
+    {
+        "name": "Road Town",
+        "isoCode": "RTN",
+        "countryCode": "VG",
+        "latitude": "18.41666667",
+        "longitude": "-64.616667"
+    },
+    {
+        "name": "Spanish Town",
+        "isoCode": "SPN",
+        "countryCode": "VG",
+        "latitude": "18.41666667",
+        "longitude": "-64.616667"
     }
 ]
